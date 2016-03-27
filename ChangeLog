@@ -1,0 +1,59 @@
+24-06-2013  Kunal Sachdeva <kunal.sachdeva@students.iiit.ac.in>
+
+	*Version 2.2
+
+	1. New version of tagger is with respect to new decisions and improvemnt in accuracy. 
+	2. All the XC tags has been replaced with tag followed by the word and adding a 'C' to it.
+
+
+
+18-05-2012  Rahul Goutam <rahul.goutam@research.iiit.ac.in>
+	
+	* Version 2.1
+
+	1. New version of the tagger is with respect to the improvement in the
+	accuracies.
+
+17-09-2009  Avinesh PVS, Rashid Ahmad <avinesh@students.iiit.ac.in>,<rashid101b@gmail.com>
+	
+	* Version 2.0
+
+	1. New version of the tagger is with respect to the improvement in the
+	accuracies.
+
+
+
+25-11-2008  Avinesh PVS, Rashid Ahmad <avinesh@students.iiit.ac.in>,<rashid101b@gmail.com>
+	
+	* Version 1.4
+
+
+	1.Problem regarding the feature structure has been solved..
+	sample tests in tests/probcase1.rin
+
+21-10-2008  Avinesh PVS, Rashid Ahmad <avinesh@students.iiit.ac.in>,<rashid101b@gmail.com>
+	
+	* Version 1.3
+
+	1. added some tests data in tests/hin directory.
+	2. modify README, Makefile.
+	3. change the name of module as hin_crf_postagger.
+
+15-10-2008  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+	
+	* Version 1.2
+
+	1. Removal cat command from run.
+
+15-10-2008  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+	
+	* Version 1.1
+
+	1. Modifications in the makefiles as per the sampark directory
+	structure.
+
+10-10-2008  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+	* Version 1.0
+
+	1. CRF based Tagger basic implementation, with Makefiles,installation
+	files etc.
